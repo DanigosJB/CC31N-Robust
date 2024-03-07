@@ -14,6 +14,9 @@ namespace CC31N_Robust;
 /// <summary>
 /// Interaction logic for MainWindow.xaml
 /// </summary>
+
+
+private GameSession _gamesession;
 public partial class MainWindow : Window
 {
     public MainWindow()
